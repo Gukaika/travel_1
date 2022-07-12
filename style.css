@@ -159,7 +159,7 @@ body {
 /* -----------SECTION PREVIEW--------- */
 .preview {
     height: 765px;
-    background: url(../img/bcg_preview.png) no-repeat;
+    background: url(./img/bcg_preview.png) no-repeat;
     background-size: cover;
     margin-top: -90px;
     
@@ -365,7 +365,7 @@ h2 {
 /*----------------------------------- */
 .stories {
     height: 1331px;
-    background: url(../img/bcg_stories.png) no-repeat;
+    background: url(./img/bcg_stories.png) no-repeat;
     background-size: cover;
 }
 
